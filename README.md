@@ -1,3 +1,6 @@
 # SendGrid 
 Written on Phyton 3.8
-To be sent to GCP Cloud Functions
+
+Backend to be sent to GCP Cloud Functions
+
+Frontend to be sent to a bucket with the paramenter web
